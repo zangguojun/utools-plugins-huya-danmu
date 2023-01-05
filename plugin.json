@@ -1,0 +1,20 @@
+{
+  "name": "demo",
+  "main": "index.html",
+  "pluginName": "测试",
+  "description": "测试描述",
+  "author": "zangguojun",
+  "homepage": "https://github.com/zangguojun",
+  "version": "1.1.1",
+  "development": {
+    "main": "http://127.0.0.1:5173/index.html"
+  },
+  "logo": "public/logo.jpg",
+  "features": [
+    {
+      "code": "hello",
+      "explain": "hello world",
+      "cmds": ["hello", "你好"]
+    }
+  ]
+}
